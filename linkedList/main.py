@@ -30,4 +30,3 @@ print(myList)
 #Sort
 myList.sortNode()  
 print(myList)
-
